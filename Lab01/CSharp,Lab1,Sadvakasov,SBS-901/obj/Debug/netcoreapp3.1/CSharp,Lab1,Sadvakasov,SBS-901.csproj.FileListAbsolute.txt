@@ -1,0 +1,13 @@
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\bin\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.exe
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\bin\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.deps.json
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\bin\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.runtimeconfig.json
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\bin\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.runtimeconfig.dev.json
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\bin\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.dll
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\bin\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.pdb
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\obj\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.csprojAssemblyReference.cache
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\obj\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.AssemblyInfoInputs.cache
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\obj\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.AssemblyInfo.cs
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\obj\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\obj\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.dll
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\obj\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.pdb
+C:\Users\Руслан\source\repos\Lab01\CSharp,Lab1,Sadvakasov,SBS-901\obj\Debug\netcoreapp3.1\CSharp,Lab1,Sadvakasov,SBS-901.genruntimeconfig.cache
